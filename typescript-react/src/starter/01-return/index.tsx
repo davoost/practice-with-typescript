@@ -1,4 +1,5 @@
 function Component() {
+
   return (
     <div>
       <h2>React & Typescript</h2>
